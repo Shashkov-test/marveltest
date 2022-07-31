@@ -1,5 +1,5 @@
 {
-  "homepage": "https://Shashkov-test.github.io/marveltest.github.io",
+  "homepage": "https://Shashkov-test.github.io/marveltest",
   "name": "marvel",
   "version": "0.1.0",
   "private": true,
@@ -9,8 +9,9 @@
     "@testing-library/user-event": "^12.1.10",
     "debug": "^4.3.4",
     "prop-types": "^15.8.1",
-    "react": "^17.0.2",
-    "react-dom": "^17.0.2",
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0",
+    "react-router-dom": "^6.3.0",
     "react-scripts": "4.0.3",
     "web-vitals": "^1.0.1"
   },
